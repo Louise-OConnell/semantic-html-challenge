@@ -32,7 +32,7 @@ table{
 }
 
 .table-header{
-background-image: url("/assets/leopardskin.jpg"), gradient-fill(180deg) rgba(0,0,0,0.1), rgba(0,0,0,0.5);
+background-image: url("./assets/leopardskin.jpg"), gradient-fill(180deg) rgba(0,0,0,0.1), rgba(0,0,0,0.5);
 font-family: "rock salt", "cursive";
 color: white;
 
@@ -40,13 +40,13 @@ color: white;
 
 .table-body{
 justify-content: center;
-background-image: url("/assetts/noise.png");
+background-image: url("./assetts/noise.png");
 font-family: Helvetica;
 padding: 8px;
 }
 
 .table-footer{
-    background-image: url("/assets/leopardskin.jpg"), rgba(0,0,0,0.1), rgba(0,0,0,0.5);
+    background-image: url("./assets/leopardskin.jpg"), rgba(0,0,0,0.1), rgba(0,0,0,0.5);
     font-family: "rock salt", "cursive";
     color: white;
 }
