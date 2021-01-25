@@ -20,6 +20,9 @@ table{
 
 th{
   border: solid 2px #800080
+  background-image: url("./assets/leopardskin.jpg"), gradient-fill(180deg rgba(0,0,0,0.1), rgba(0,0,0,0.5);
+  font-family: "rock salt", "cursive";
+  color: black;
 }
 
 td{
@@ -39,32 +42,29 @@ td{
   width: 60%;
 }
 
-thead{
-background-image: url("./assets/leopardskin.jpg"), gradient-fill(180deg rgba(0,0,0,0.1), rgba(0,0,0,0.5);
-font-family: "rock salt", "cursive";
-color: white;
-}
 
 tbody{
 justify-content: center;
 background-image: url("./assetts/noise.png");
 font-family: Helvetica;
-color: white;
+color: black;
 padding: 8px;
 }
 
-tbody tr:nth-child(even){
+td tr:nth-child(even){
+  color: black; 
   background-color: #e495e4;
 }
 
-tbody tr:nth-child(odd){
+td tr:nth-child(odd){
+  color: black;
   background-color: #FF33CC
 }
 
 tfoot{
     background-image: url("./assets/leopardskin.jpg"), gradient-fill(180deg rgba(0,0,0,0.1), rgba(0,0,0,0.5);
     font-family: "rock salt", "cursive";
-    color: white;
+    color: black;
 }
 
 caption{
