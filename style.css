@@ -11,11 +11,19 @@ h1 {
 }
 
 table{
-    border: solid 3px #800080;
+    border: solid 2px #800080;
     table-layout: fixed;
     text-align: center;
     width: 100%;
     border-collapse: collapse;  
+}
+
+th{
+  border: solid 2px #800080
+}
+
+td{
+  border: solid 2px #800080
 }
 
 .row-Band {
