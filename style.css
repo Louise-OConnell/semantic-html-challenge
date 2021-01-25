@@ -18,6 +18,19 @@ table{
     border-collapse: collapse;  
 }
 
+.row-Band {
+  width: 50%;
+}
+.row-Year Formed {
+  width: 30%;
+}
+.row-No. of Albums {
+  width: 20%;
+}
+.row-Most Famous Song {
+  width: 50%;
+}
+
 .table-header{
 background-image: url("assets/leopardskin.jpg"), gradient-fill(180deg) rgba(0,0,0,0.1), rgba(0,0,0,0.5);
 font-family: "rock salt", "cursive";
