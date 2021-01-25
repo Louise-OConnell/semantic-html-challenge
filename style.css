@@ -27,20 +27,20 @@ td{
 }
 
 .row-Band {
-  width: 50%;
+  width: 30%;
 }
 .row-Year Formed {
-  width: 30%;
+  width: 20%;
 }
 .row-No. of Albums {
   width: 20%;
 }
 .row-Most Famous Song {
-  width: 50%;
+  width: 60%;
 }
 
 .table-header{
-background-image: url("./assets/leopardskin.jpg"), gradient-fill(180deg) rgba(0,0,0,0.1), rgba(0,0,0,0.5);
+background-image: url("./assets/leopardskin.jpg"), gradient-fill(180deg rgba(0,0,0,0.1), rgba(0,0,0,0.5);
 font-family: "rock salt", "cursive";
 color: white;
 
@@ -50,15 +50,25 @@ color: white;
 justify-content: center;
 background-image: url("./assetts/noise.png");
 font-family: Helvetica;
+color: white;
 padding: 8px;
 }
 
-.table-footer{
-    background-image: url("./assets/leopardskin.jpg"), rgba(0,0,0,0.1), rgba(0,0,0,0.5);
+tbody tr:nth-child(even){
+  background-color: #e495e4;
+}
+
+tbody tr:nth-child(odd){
+  background-color: #FF33CC
+}
+
+.table-footer td{
+    background-image: url("./assets/leopardskin.jpg"), gradient-fill(180deg rgba(0,0,0,0.1), rgba(0,0,0,0.5);
     font-family: "rock salt", "cursive";
     color: white;
 }
 
 caption{
-    text-align: right;
+    text-align: end;
+    caption-side: bottom;
 }
