@@ -39,14 +39,13 @@ td{
   width: 60%;
 }
 
-.table-header{
+thead{
 background-image: url("./assets/leopardskin.jpg"), gradient-fill(180deg rgba(0,0,0,0.1), rgba(0,0,0,0.5);
 font-family: "rock salt", "cursive";
 color: white;
-
 }
 
-.table-body{
+tbody{
 justify-content: center;
 background-image: url("./assetts/noise.png");
 font-family: Helvetica;
@@ -62,13 +61,13 @@ tbody tr:nth-child(odd){
   background-color: #FF33CC
 }
 
-.table-footer td{
+tfoot{
     background-image: url("./assets/leopardskin.jpg"), gradient-fill(180deg rgba(0,0,0,0.1), rgba(0,0,0,0.5);
     font-family: "rock salt", "cursive";
     color: white;
 }
 
 caption{
-    text-align: end;
+    text-align: right;
     caption-side: bottom;
 }
