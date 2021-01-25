@@ -9,3 +9,35 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+
+table{
+    border: solid 3px #800080;
+    table-layout: fixed;
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;  
+}
+
+.table-header{
+background-image: url("assets/leopardskin.jpg"), gradient-fill(180deg) rgba(0,0,0,0.1), rgba(0,0,0,0.5);
+font-family: "rock salt", "cursive";
+color: white;
+
+}
+
+.table-body{
+justify-content: center;
+background-image: url("/assetts/noise.png");
+font-family: Helvetica;
+padding: 8px;
+}
+
+.table-footer{
+    background-image: url("assets/leopardskin.jpg"), rgba(0,0,0,0.1), rgba(0,0,0,0.5);
+    font-family: "rock salt", "cursive";
+    color: white;
+}
+
+.footer{
+    text-align: right;
+}
