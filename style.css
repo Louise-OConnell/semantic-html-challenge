@@ -57,7 +57,6 @@ tfoot{
     background-image: url("/assets/leopardskin.jpg") gradient-fill(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
     font-family: "rock salt", "cursive";
     color: black;
-}
 
 caption{
     text-align: right;
