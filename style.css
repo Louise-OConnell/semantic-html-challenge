@@ -23,6 +23,8 @@ thead {
   background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
   font-family: "rock salt", "cursive";
   color: white;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
 
 .row-Band {
@@ -75,11 +77,12 @@ tfoot {
     background-image: linear-gradient(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
     font-family: "rock salt", "cursive";
     color: white;
+    padding-top: 2em;
+    padding-bottom: 2em;
 }
 
 .Summary {
     text-align: right;
     caption-side: bottom;
-    padding-right: 1em;
-    font-weight: bold;
+    padding-right: 3em;   
 }
