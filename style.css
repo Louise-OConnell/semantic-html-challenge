@@ -18,7 +18,7 @@ table {
 
 thead {
   border: solid 2px #800080
-  background-image: src=("/assets/leopardskin.jpg") gradient-fill(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
+  background-image: url("./assets/leopardskin.jpg") gradient-fill(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
   font-family: "rock salt", "cursive";
   color: black;
 }
@@ -42,7 +42,7 @@ td tr {
 
 tbody {
 justify-content: center;
-background-image: src=("/assets/noise.png");
+background-image: url("./assets/noise.png");
 font-family: Helvetica;
 color: black;
 padding: 8px;
@@ -57,7 +57,7 @@ td tr:nth-child(odd) {
 }
 
 tfoot {
-    background-image: src=("/assets/leopardskin.jpg") gradient-fill(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
+    background-image: url("./assets/leopardskin.jpg") gradient-fill(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
     font-family: "rock salt", "cursive";
     color: black;
 
