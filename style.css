@@ -1,10 +1,5 @@
 /* CSS files add styling rules to your content */
 
-body {
-  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  margin: 2em;
-}
-
 h1 {
   font-style: italic;
   color: #373fff;
@@ -18,14 +13,14 @@ table{
     border-collapse: collapse;  
 }
 
-th{
+thead{
   border: solid 2px #800080
-  background-image: url("./assets/leopardskin.jpg"), gradient-fill(180deg rgba(0,0,0,0.1), rgba(0,0,0,0.5);
+  background-image: url("/assets/leopardskin.jpg") gradient-fill(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
   font-family: "rock salt", "cursive";
   color: black;
 }
 
-td{
+td tr{
   border: solid 2px #800080
 }
 
@@ -42,27 +37,24 @@ td{
   width: 60%;
 }
 
-
 tbody{
 justify-content: center;
-background-image: url("./assetts/noise.png");
+background-image: url("/assetts/noise.png");
 font-family: Helvetica;
 color: black;
 padding: 8px;
 }
 
 td tr:nth-child(even){
-  color: black; 
   background-color: #e495e4;
 }
 
 td tr:nth-child(odd){
-  color: black;
-  background-color: #FF33CC
+   background-color: #FF33CC
 }
 
 tfoot{
-    background-image: url("./assets/leopardskin.jpg"), gradient-fill(180deg rgba(0,0,0,0.1), rgba(0,0,0,0.5);
+    background-image: url("/assets/leopardskin.jpg") gradient-fill(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
     font-family: "rock salt", "cursive";
     color: black;
 }
