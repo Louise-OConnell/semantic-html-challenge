@@ -27,18 +27,22 @@ thead {
 .row-Band {
   width: 25%;
   font-family: "rock salt", "cursive";
+  border: solid 2px #800080;
 }
 .row-Year Formed {
   width: 15%;
   font-family: "rock salt", "cursive";
+  border: solid 2px #800080;
 }
 .row-No. of Albums {
   width: 15%;
   font-family: "rock salt", "cursive";
+  border: solid 2px #800080;
 }
 .row-Most Famous Song {
   width: 40%;
   font-family: "rock salt", "cursive";
+  border: solid 2px #800080;
 }
 
 .row-band tbody{
@@ -73,5 +77,6 @@ tfoot {
 caption{
     text-align: right;
     caption-side: bottom;
-    padding-right: 100%; 
+    padding-right: 2em;
+    font-weight: bold;
 }
