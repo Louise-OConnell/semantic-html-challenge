@@ -64,12 +64,12 @@ tbody tr {
   background-image: url("./assets/noise.png");
 }
 
-td tr:nth-child(even) {
+tbody tr:nth-child(even) {
   background-color: #e495e4;
 }
 
-td tr:nth-child(odd) {
-   background-color: #FF33CC
+tbody tr:nth-child(odd) {
+   background-color: #ff33cc;
 }
 
 tfoot {
