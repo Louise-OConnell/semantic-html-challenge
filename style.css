@@ -14,11 +14,7 @@ table {
     text-align: center;
     width: 100%;
     border-collapse: collapse;  
-    background-image: url("./assets/leopardskin.jpg");
-    background-repeat: repeat;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
+    background-image: url("./assets/leopardskin.jpg");  
 }
 
 thead {
