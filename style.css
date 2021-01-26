@@ -66,4 +66,5 @@ tfoot {
 caption{
     text-align: right;
     caption-side: bottom;
+    padding-right: 100%; 
 }
