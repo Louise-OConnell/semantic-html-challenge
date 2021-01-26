@@ -74,7 +74,7 @@ tfoot {
     color: white;
 }
 
-caption{
+.Summary {
     text-align: right;
     caption-side: bottom;
     padding-right: 1em;
