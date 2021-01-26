@@ -16,6 +16,9 @@ table {
     border-collapse: collapse;  
     background-image: url("./assets/leopardskin.jpg");
     background-repeat: repeat;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 thead {
