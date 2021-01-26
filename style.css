@@ -21,7 +21,7 @@ table {
 thead {
   border: solid 2px #800080
   background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
-  font-family: "rock salt", "cursive";
+  font-family: "Rock Salt", cursive;
   color: white;
   height: 50px;
 }
@@ -29,27 +29,27 @@ thead {
 .row-Band {
   width: 25%;
   border: solid 2px #800080;
-  font-family: "Rock Salt", "Cursive";
+  font-family: "Rock Salt", Cursive;
 }
 .row-Year Formed {
   width: 15%;
   border: solid 2px #800080;
-  font-family: "Rock Salt", "Cursive";
+  font-family: "Rock Salt", Cursive;
 }
 .row-No. of Albums {
   width: 15%;
   border: solid 2px #800080;
-  font-family: "Rock Salt", "Cursive";
+  font-family: "Rock Salt", Cursive;
 }
 .row-Most Famous Song {
   width: 40%;
   border: solid 2px #800080;
-  font-family: "Rock Salt", "Cursive";
+  font-family: "Rock Salt", Cursive;
 }
 
 thead td {
   font-weight:bold;
-  font-family: "rock salt", "cursive";
+  font-family: "Rock Salt", cursive;
   border: solid 2px #800080;
 }
 
@@ -74,13 +74,14 @@ td tr:nth-child(odd) {
 
 tfoot {
     background-image: linear-gradient(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
-    font-family: "rock salt", "cursive";
+    font-family: "Rock Salt", cursive;
     color: white;
     height: 50px;
 }
 
 .Summary {
     text-align: right;
+    justify-text: right; 
     caption-side: bottom;
     padding-right: 80px;   
 }
