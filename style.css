@@ -42,13 +42,14 @@ thead {
 }
 
 .row-Albums {
+  width: 20%;
   border: solid 2px #800080;
   font-family: "Rock Salt", Cursive;
-  width: 15%;
+  
   }
 
 .row-Song {
-  width: 60%;
+  width: 50%;
   border: solid 2px #800080;
   font-family: "Rock Salt", Cursive;
 }
