@@ -73,7 +73,7 @@ tfoot td {
     font-weight: bold;
     font-size: 8px;
     color: white;
-    height: 30px;
+    height: 20px;
     border: solid 2px #800080;
 }
 
@@ -81,6 +81,7 @@ p {
     text-align: right;
     font-family: 'Rock Salt', cursive; 
     font-size: 8px;
+    font-weight: bold;
 }
 
 .TotalAlbums {
