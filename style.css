@@ -31,6 +31,10 @@ thead {
   padding: 3px;
 }
 
+.row-1 row-Band {
+  font-weight: bold
+}
+
 .row-Band {
   width: 25%;
   border: solid 2px #800080;
