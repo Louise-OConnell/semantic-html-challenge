@@ -81,7 +81,7 @@ tfoot {
     border: solid 2px #800080;
 }
 
-.Summary {
+caption {
     caption-side: right;
-    padding-right: 100%;   
+    font-family: "Rock Salt", cursive; 
 }
