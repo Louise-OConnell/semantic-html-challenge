@@ -83,7 +83,5 @@ tfoot {
 
 .Summary {
     text-align: right;
-    justify-text: right; 
-    caption-side: bottom;
-    padding-right: 80px;   
+    padding-right: 100%;   
 }
