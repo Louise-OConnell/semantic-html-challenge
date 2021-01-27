@@ -82,6 +82,7 @@ tfoot {
 }
 
 caption {
-    caption-side: right;
+    caption-side: bottom right;
+    text-align: right;
     font-family: "Rock Salt", cursive; 
 }
