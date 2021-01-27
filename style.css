@@ -20,12 +20,12 @@ table {
 }
 
 thead td {
-  border: solid 2px #800080;
   background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
   font-family: "Rock Salt", cursive;
-   font-weight:bold;
+  font-weight:bold;
   color: white;
   height: 50px;
+  border: solid 2px #800080;
 }
 
 .row-Band {
