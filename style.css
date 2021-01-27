@@ -1,6 +1,6 @@
 /* CSS files add styling rules to your content */
 body {
-  margin-right: 10px;
+  margin-right: 15px;
   margin-left: 25px:
 }
 
@@ -13,7 +13,7 @@ table {
     border: solid 2px #800080;
     table-layout: fixed;
     text-align: center;
-    width: 80%;
+    width: 100%;
     border-collapse: collapse;  
     background-image: url("./assets/leopardskin.jpg"); 
     background-repeat: repeat;
@@ -24,11 +24,10 @@ thead {
   background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
   font-family: 'Rock Salt', cursive;
   font-weight:bold;
-  font-size: 6px;
+  font-size: 10px;
   color: white;
   height: 30px;
   border: solid 2px #800080;
-  padding: 3px;
 }
 
 .row-1 row-Band {
@@ -76,7 +75,7 @@ tfoot td {
     background-image: linear-gradient(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
     font-family: 'Rock Salt', cursive;
     font-weight: bold;
-    font-size: 6px;
+    font-size: 8px;
     color: white;
     height: 30px;
     border: solid 2px #800080;
@@ -84,9 +83,9 @@ tfoot td {
 
 p {
     text-align: right;
-    padding-left: 15%;
+    margin-right: 20px;
     font-family: 'Rock Salt', cursive; 
-    font-size: 6px;
+    font-size: 8px;
 }
 
 .TotalAlbums {
