@@ -34,17 +34,20 @@ thead {
   border: solid 2px #800080;
   font-family: "Rock Salt", Cursive;
 }
-.row-Year Formed {
+
+.row-Year {
   width: 15%;
   border: solid 2px #800080;
   font-family: "Rock Salt", Cursive;
 }
-.row-Nborder: solid 2px #800080;
-  font-family: "Rock Salt", Cursive;o. of Albums {
+
+.row-Albums {
+  border: solid 2px #800080;
+  font-family: "Rock Salt", Cursive;
   width: 15%;
-  
-}
-.row-Most Famous Song {
+  }
+
+.row-Song {
   width: 60%;
   border: solid 2px #800080;
   font-family: "Rock Salt", Cursive;
