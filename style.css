@@ -13,7 +13,7 @@ table {
     border: solid 2px #800080;
     table-layout: fixed;
     text-align: center;
-    width: 100%;
+    width: 80%;
     border-collapse: collapse;  
     background-image: url("./assets/leopardskin.jpg"); 
     background-repeat: repeat;
@@ -24,6 +24,7 @@ thead {
   background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
   font-family: 'Rock Salt', cursive;
   font-weight:bold;
+  font-size: 10px;
   color: white;
   height: 40px;
   border: solid 2px #800080;
@@ -52,7 +53,6 @@ thead {
 tbody td {
 text-allign: center;
 font-family: Helvetica Neue, Helvetica, sans-serif;
-color: black;
 }
 
 tbody tr {
@@ -71,6 +71,7 @@ tfoot td {
     background-image: linear-gradient(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
     font-family: 'Rock Salt', cursive;
     font-weight: bold;
+    font-size: 10px;
     color: white;
     height: 40px;
     border: solid 2px #800080;
@@ -79,6 +80,7 @@ tfoot td {
 p {
     text-align: right;
     font-family: 'Rock Salt', cursive; 
+    font-size: 10px;
 }
 
 .TotalAlbums {
