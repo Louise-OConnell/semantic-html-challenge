@@ -82,3 +82,11 @@ p {
     font-family: 'Rock Salt', cursive; 
     font-size: 10px;
 }
+
+.TotalAlbums {
+  text-align: right;
+}
+
+.77 {
+  text-align: left;
+}
