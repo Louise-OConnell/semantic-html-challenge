@@ -28,6 +28,7 @@ thead {
   color: white;
   height: 30px;
   border: solid 2px #800080;
+  border-spacing: 2em;
 }
 
 .row-Band {
@@ -79,6 +80,7 @@ tfoot td {
 
 p {
     text-align: right;
+    margin-right: 40px;
     font-family: 'Rock Salt', cursive; 
     font-size: 8px;
     font-weight: bold;
