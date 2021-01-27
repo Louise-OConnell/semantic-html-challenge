@@ -27,7 +27,6 @@ thead {
   color: white;
   height: 50px;
   border: solid 2px #800080;
-  padding: 4px;
 }
 
 .row-Band {
@@ -77,7 +76,6 @@ tfoot td {
     color: white;
     height: 50px;
     border: solid 2px #800080;
-    padding: 4px;
 }
 
 p {
