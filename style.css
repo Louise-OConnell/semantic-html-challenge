@@ -21,7 +21,7 @@ table {
 
 thead {
   background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
-  font-family: "Rock Salt", cursive;
+  font-family: 'Rock Salt', cursive;
   font-weight:bold;
   font-size: 10px;
   color: white;
@@ -33,26 +33,21 @@ thead {
 .row-Band {
   width: 25%;
   border: solid 2px #800080;
-  font-family: "Rock Salt", Cursive;
 }
 
 .row-Year {
   width: 15%;
   border: solid 2px #800080;
-  font-family: "Rock Salt", Cursive;
 }
 
 .row-Albums {
   width: 20%;
   border: solid 2px #800080;
-  font-family: "Rock Salt", Cursive;
-  
   }
 
 .row-Song {
   width: 50%;
   border: solid 2px #800080;
-  font-family: "Rock Salt", Cursive;
 }
 
 tbody td {
@@ -76,7 +71,7 @@ tbody tr:nth-child(odd) {
 
 tfoot td {
     background-image: linear-gradient(180deg rgba(0,0,0,0.1) rgba(0,0,0,0.5));
-    font-family: "Rock Salt", cursive;
+    font-family: 'Rock Salt', cursive;
     font-weight: bold;
     font-size: 10px;
     color: white;
@@ -87,6 +82,6 @@ tfoot td {
 
 p {
     text-align: right;
-    font-family: "Rock Salt", cursive; 
+    font-family: 'Rock Salt', cursive; 
     font-size: 10px;
 }
