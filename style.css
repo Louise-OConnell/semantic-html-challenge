@@ -82,6 +82,6 @@ tfoot {
 }
 
 .Summary {
-    text-align: right;
+    caption-side: right;
     padding-right: 100%;   
 }
