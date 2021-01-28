@@ -13,7 +13,7 @@ table {
     border: solid 2px #800080;
     table-layout: fixed;
     text-align: center;
-    width: 90%;
+    width: 100%;
     border-collapse: collapse;  
     background-image: url("./assets/leopardskin.jpg"); 
     background-repeat: repeat;
@@ -81,9 +81,8 @@ tfoot td {
     border: solid 2px #800080;
 }
 
-p.caption {
+p {
     text-align: right;
-    float: right;
     font-family: 'Rock Salt', cursive; 
     font-size: 8px;
     font-weight: bold;
