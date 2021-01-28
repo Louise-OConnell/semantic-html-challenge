@@ -81,7 +81,7 @@ tfoot td {
     border: solid 2px #800080;
 }
 
-p {
+p.caption {
     text-align: right;
     float: right;
     font-family: 'Rock Salt', cursive; 
